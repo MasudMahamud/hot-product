@@ -1,0 +1,73 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.bg-light {
+    background-color: #d0d2d4!important;
+}
+
+.logo img{
+    max-width: 85px;
+}
+.carousel-bg{
+    background-color: rgb(194, 190, 184);
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.slide-click{
+    opacity: 0;
+    width: 0;
+}
+
+.slide-click:hover{
+    opacity: 0;
+    width: 0;
+}
+.cat-alin{
+    margin-bottom: 20px;
+}
+.highlight{
+    color: peru;
+    font-size: 30px;
+    
+}
+
+.card{
+    border: none;
+}
+
+
+small{
+    margin-top: 20px;
+}
+
+.cta{
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.half-width{
+    float: left;
+    width: 50%;
+}
+
+.half-width img{
+    background-color: #f5f4f4;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.grid{
+    display: grid;
+}
+
+.bag{
+    margin-top: 70px;
+}
+.bag img{
+    float: right;
+    margin-right: 20px;
+}
